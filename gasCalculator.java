@@ -1,5 +1,5 @@
 /*
-*program to determine if the user will be able to travel to the next
+*Program to determine if the user will be able to travel to the next
 *service station without running out of fuel
 */
 package week4;
