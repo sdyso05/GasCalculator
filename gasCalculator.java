@@ -2,7 +2,7 @@
 *Program to determine if the user will be able to travel to the next
 *service station without running out of fuel
 */
-package week4;
+package calculator;
 
 /**
  *
@@ -52,6 +52,8 @@ public class gasCalculator {
         else{
    
             System.out.println("Don't worry, you'll make it to the next service station");
-            //close class
-        }
-                    
+            
+        } // close if/else
+        
+    } // close main
+} // close class
